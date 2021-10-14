@@ -23,5 +23,8 @@ A next-gen HOA governed by a DAO (Decentralized Autonomous Organization).  Token
 * NFT holders will have priority on parcels in this tokenized subdivision
 * Will have conversations about (1) using Proof of Humanity or BrightID, (2) "RageQuit" feature (3) asking for people to commit to 6 months (IE: till 01Apr2022) for developing TokenTown Colorado.
 
+## Unlock your Key to TokenTown
+[<img src="https://pbs.twimg.com/media/FBnr6Z4VgAQsV1s.jpg" width=275 align=right>](https://twitter.com/UnlockProtocol/status/1448451324744404995)
 
+We have utilized [@UnlockProtocol](https://twitter.com/UnlockProtocol/) to create our smart contract which functions as a "Membership NFT".  This NFT can initially be acquired at https://TokenTown.net/ and may be resold on secondary markets.
 
