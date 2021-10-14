@@ -3,6 +3,8 @@
 
 TokenTownCO will be the 1st TokenTown built from the ground up.
 
+
+
 # Founding Citizen (Round 1 | Limit: 32)
 
 ## NFT Founding Citizen Benefits / Parameters
