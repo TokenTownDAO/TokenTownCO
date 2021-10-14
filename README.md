@@ -1,9 +1,12 @@
 # TokenTownCO
 [<img src="https://pbs.twimg.com/media/FBnh_x7VgAEd0s5.jpg" width=275 align=right>](https://twitter.com/TokenTownDAO/status/1444427384527065093)
 
-TokenTownCO will be the 1st TokenTown built from the ground up.
+TokenTownCO (Colorado) will be the 1st TokenTown built from the ground up.
 
+## What is TokenTown?
+A next-gen HOA governed by a DAO (Decentralized Autonomous Organization).  TokenTown is a project by REtoken | The Real Estate DAO.
 
+> ***TokenTown | The HOA Destroyer***
 
 # Founding Citizen (Round 1 | Limit: 32)
 
