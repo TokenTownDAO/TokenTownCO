@@ -11,6 +11,7 @@ TokenTownCO will be the 1st TokenTown built from the ground up.
 
 **NOTE: Applies only to "TokenTown Colorado"**
 [<img src="https://pbs.twimg.com/media/FAujCJbVkAEabej.png" width=275 align=right>](https://twitter.com/TokenTownDAO/status/1444427384527065093)
+
 * ideally will be people wanting to physically live within this new Colorado subdivision
 * Limiting to 32 Founding Citizens @ 1 $ETH/ea for Round 1
 * NOTE: the 1 $ETH is a deposit & "skin-in-the-game" signal and Founding Citizens will collectively decide on how to earn yield with the 32 $ETH. This is NOT an investment and does NOT suggest or imply any future returns on any project.
